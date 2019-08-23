@@ -1,2 +1,1 @@
-# Tindog
-tinder dog website tutorial
+TinDog Starting Files
